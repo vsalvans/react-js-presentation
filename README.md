@@ -1,3 +1,3 @@
 # Email Marketing Slides
 
-https://vsalvans.github.io/react-js/#/
+https://vsalvans.github.io/react-js-presentation
